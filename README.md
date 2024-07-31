@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm kazama20003</h1>
 <h3 align="center">A passionate full Stack junior developer</h3>
 
-<img alt="GIF" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" width = 400/>
-
+<div align="center">
+  <img alt="GIF" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" width="400"/>
+</div>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Front end junior](https://github.com/kazama20003/Card-React)
